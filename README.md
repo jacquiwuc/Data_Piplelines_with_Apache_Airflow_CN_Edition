@@ -1,1 +1,3 @@
 # Data_Piplelines_with_Apache_Airflow_CN_Edition
+
+Translation by myself
